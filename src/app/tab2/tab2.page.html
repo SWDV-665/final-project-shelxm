@@ -1,0 +1,34 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="header">
+    <ion-title class="ion-text-center title">
+      {{title}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{title}}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-card *ngFor="let item of trucks">
+    <div class="fT body">
+      <ion-item>
+        <ion-avatar slot="start">
+          <img src={{item.icon}} alt={{item.altImg}}>
+        </ion-avatar>
+        <ion-label>
+          <h3>{{item.name}}</h3>
+          <p>Open: {{item.openTime}} - {{item.closeTime}}</p>
+          <p>Location: {{item.location}}</p>
+        </ion-label>
+        <button (click)="basicShare(item)" slot="end">
+          <ion-icon name="share-social-outline"></ion-icon>
+          Share
+        </button>
+      </ion-item>
+    </div>
+  </ion-card>
+
+</ion-content>

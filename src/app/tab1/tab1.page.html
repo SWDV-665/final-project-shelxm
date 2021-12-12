@@ -1,0 +1,25 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="header">
+    <ion-title class="ion-text-center title">
+      {{title}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{title}}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <div class="container body">
+    <h2>Welcome</h2>
+    <p>Welcome to my Food Truck Finder application</p>
+    <ul>
+      <li>This tab is a splash page for introductions. Future visions for this page include a list of favorite food trucks and a display of current geolocation. With the proper effort and coding there could be a section to highlihgt events or locations.</li>
+      <li>The second tab is the list of food trucks pulled from a static JSON file. Each card consists of the food truck's name, current-ish hours, and location. A share button is at the right end of each card. Future visions for this tab include adding a favorite button to the end of each card and having each card link to their own respective page with more information.</li>
+      <li>The last tab is an about tab with contact information for thoughts or to submit any issues. A version number along with a fully featured contact form would be some ideas for future iterations.</li>
+    </ul>
+  </div>
+  <img class="banner" src="https://www.phinneycenter.org/wp-content/uploads/2021/05/Copy-of-Food-Truck-Web-Banner.png" alt="A banner of different food truck elements.">
+</ion-content>

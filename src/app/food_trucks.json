@@ -1,0 +1,58 @@
+{
+    "trucks": [
+        {
+            "name": "Carlos Mexican Grill",
+            "openTime": "11:00 am",
+            "closeTime": "2:00 pm",
+            "location": "Kildee Hall Iowa State University Campus",
+            "facebookLink": "https://www.facebook.com/carlosquesadillas",
+            "icon": "https://carlos-quesadillas.square.site/uploads/b/6d270ee0-5ccd-11ea-858b-6fe1fa06a9dc/d73bda80-7139-11ea-ae4b-cf4008402a5a.jpg?width=2400",
+            "altImg": "Restaurant name under a festive caricature taco."
+        },
+        {
+            "name": "Chicago Treats",
+            "openTime":"4:00 pm",
+            "closeTime": "TBD",
+            "location": "The Parc by Community Choice | 202 E Lincoln Way Ames, IA 50010",
+            "facebookLink": "https://www.facebook.com/ChicagoTreats/",
+            "icon": "https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/128304999_4768884503183746_7525174743949169190_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cBT9S1hBkSkAX87y1e5&_nc_ht=scontent-ort2-2.xx&oh=5471f455a94664552ff9e5f861863a11&oe=61D845D6",
+            "altImg": "Front of the food truck at sundown"
+        },
+        {
+            "name": "On the Hook Fish and Chips",
+            "openTime": "11:00 am",
+            "closeTime": "7:00 pm",
+            "location": "North Grand Mall 2719 Grand Ave Ames, IA",
+            "facebookLink": "https://www.facebook.com/OnTheHookFishAndChips",
+            "icon": "https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/47113569_2049967671890538_5671857695687180288_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Hy1RPiAseCYAX_tvJTJ&_nc_ht=scontent-ort2-2.xx&oh=d375a455a532b88deaf60bdf3be24bd9&oe=61DBFFDF",
+            "altImg": "Fish caught on a hook and line surrounding the logo"
+        },
+        {
+            "name": "Hungry Boys",
+            "openTime": "10:00 pm",
+            "closeTime": "3:00 am",
+            "location": "121 Welch Ave Ames, IA 50014",
+            "facebookLink": "https://www.facebook.com/hungryboysiowa/",
+            "icon": "https://scontent-ort2-2.xx.fbcdn.net/v/t39.30808-6/218568685_3867456790030066_724015243583455444_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P8Tr2iEe9z0AX-FVWHv&_nc_ht=scontent-ort2-2.xx&oh=5ddd8d0cfb376cbe5b9512d7c396f595&oe=61B8D3CC",
+            "altImg": "Five boys in sombreros eating tacos"
+        },
+        {
+            "name": "Crazy Lou's",
+            "openTime": "6:00 am",
+            "closeTime": "2:00 pm",
+            "location": "Quality Inn & Suites Starlite Village Conference Center (2601 East 13th Street, Ames, IA)",
+            "facebookLink": "https://www.facebook.com/groups/4145536765473473/user/100063534880322/",
+            "icon": "https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/206852665_197034755757686_5846182948087981021_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=QKw5dAUNBZYAX-SF9O4&_nc_ht=scontent-ort2-2.xx&oh=00_AT93jJ2XspHxyWRkreyhDmunxBEIzU7ou4mIoJZiCQJYHg&oe=61D9DF63",
+            "altImg": "Food truck with tye-die chefs hat and utensils logo"
+        },
+        {
+            "name": "Rico's Tacos",
+            "openTime": "11:00 am",
+            "closeTime": "8:00 pm",
+            "location": "624 East Lincoln Way Ames, IA 50010",
+            "facebookLink": "https://www.facebook.com/ricostacoames",
+            "icon": "https://scontent-ort2-2.xx.fbcdn.net/v/t31.18172-8/12976794_528203867386451_1955720534353631184_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P5SG6oL82ygAX_vnOff&_nc_ht=scontent-ort2-2.xx&oh=2a5cc210e5b1ae67484a51bce2872920&oe=61DA3F3E",
+            "altImg": "Front of the Rico's Tacos food truck"
+        }
+    ]
+}
